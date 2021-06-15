@@ -21,7 +21,7 @@ class Formatter {
           result.push( this.capitalize( arrayOfWords[ n ] ) )
         }
       }
-    
+
     }
     return result.join( " " );
   }
